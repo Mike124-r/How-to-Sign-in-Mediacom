@@ -1,4 +1,4 @@
-How to Log in to Your Mediacom Account   
+How to Sign in to Your Mediacom Account   
 ============================================
 
 .. toctree::
